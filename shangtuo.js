@@ -6,7 +6,7 @@
 https://shatuvip.com/pages/login/register?recom_code=9199842
 
 或微信扫描二维码下载
-https://raw.githubusercontent.com/leafxcy/JavaScript/main/shangtuo.jpg
+https://raw.githubusercontent.com/x91270/scripts/main/shangtuo.jpg
 
 推荐码: 9199842
 
@@ -29,7 +29,7 @@ V2P，圈X重写食用:
 30 0 * * * shangtuo.js, tag=商拓, enabled=true
 
 [rewrite_local]
-https://api.shatuvip.com/advert/getAdvertPage? url script-request-header https://raw.githubusercontent.com/leafxcy/JavaScript/main/shangtuo.js
+https://api.shatuvip.com/advert/getAdvertPage? url script-request-header https://raw.githubusercontent.com/x91270/scripts/main/shangtuo.js
 
 [MITM]
 hostname = api.shatuvip.com
